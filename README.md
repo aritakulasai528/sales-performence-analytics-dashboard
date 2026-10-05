@@ -59,3 +59,7 @@ V## Project Workflow
 2. Open the workbook in Microsoft Excel.
 3. Explore the sales analysis and dashboard.
 4. Use the dashboard to review sales performance, product performance, and monthly trends.
+
+## About the Project
+
+This project is a Sales Performance Analytics Dashboard created using Microsoft Excel. It analyzes sales data to track key performance indicators, product performance, and monthly sales trends through tables, formulas, Pivot Tables, and charts.
