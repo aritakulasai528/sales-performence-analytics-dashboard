@@ -75,3 +75,4 @@ This project is a Sales Performance Analytics Dashboard created using Microsoft 
   ## Conclusion
 
 This project demonstrates how Microsoft Excel can be used to clean, analyze, and visualize sales data. The dashboard provides a clear view of sales performance and helps identify important trends and product-level performance.
+
