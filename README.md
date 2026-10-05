@@ -26,3 +26,11 @@ V## Project Workflow
 5. Created charts to identify sales trends
 6. Built an interactive Sales Performance Dashboard
 7. Analyzed product and monthly sales performance
+
+
+## Key Insights
+
+- Identified overall sales performance using key sales KPIs
+- Analyzed monthly sales trends
+- Compared sales performance across products
+- Used charts to make sales patterns easier to understand
