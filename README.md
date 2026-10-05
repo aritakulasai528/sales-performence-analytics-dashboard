@@ -34,3 +34,11 @@ V## Project Workflow
 - Analyzed monthly sales trends
 - Compared sales performance across products
 - Used charts to make sales patterns easier to understand
+
+
+
+## Project Files
+
+- `sales.xlsx` – Excel workbook containing the sales analysis and dashboard
+- `sales-dashboard.png` – Dashboard preview image
+- `README.md` – Project documentation
