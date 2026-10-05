@@ -52,3 +52,10 @@ V## Project Workflow
 - Data Analysis
 - Data Visualization
 - Dashboard Development
+
+## How to Use
+
+1. Download the `sales.xlsx` file.
+2. Open the workbook in Microsoft Excel.
+3. Explore the sales analysis and dashboard.
+4. Use the dashboard to review sales performance, product performance, and monthly trends.
