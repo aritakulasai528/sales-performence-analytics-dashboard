@@ -42,3 +42,13 @@ V## Project Workflow
 - `sales.xlsx` – Excel workbook containing the sales analysis and dashboard
 - `sales-dashboard.png` – Dashboard preview image
 - `README.md` – Project documentation
+
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Excel Formulas
+- Pivot Tables
+- Data Analysis
+- Data Visualization
+- Dashboard Development
