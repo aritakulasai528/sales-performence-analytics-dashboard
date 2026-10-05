@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Sales Performance Dashboard](sales-dashboard.png)
+![Sales Performance Dashboard](sales-dashboard.png.png)
 
 
 ## Tools Used
