@@ -71,3 +71,7 @@ This project is a Sales Performance Analytics Dashboard created using Microsoft 
 - Expand the dataset for deeper analysis
 - Build a similar dashboard using Power BI
 - Add advanced sales and customer analysis
+
+  ## Conclusion
+
+This project demonstrates how Microsoft Excel can be used to clean, analyze, and visualize sales data. The dashboard provides a clear view of sales performance and helps identify important trends and product-level performance.
