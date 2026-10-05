@@ -63,3 +63,11 @@ V## Project Workflow
 ## About the Project
 
 This project is a Sales Performance Analytics Dashboard created using Microsoft Excel. It analyzes sales data to track key performance indicators, product performance, and monthly sales trends through tables, formulas, Pivot Tables, and charts.
+
+
+## Future Improvements
+
+- Add more interactive filters and slicers
+- Expand the dataset for deeper analysis
+- Build a similar dashboard using Power BI
+- Add advanced sales and customer analysis
